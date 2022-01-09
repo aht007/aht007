@@ -17,11 +17,8 @@
 - 🌱 I’m currently learning DevOps.
 - 🔭 I’m currently working for Arbisoft & edX.
 - 💬 Ask me about Python, Django, Docker, React, Node and other Programming related stuff
-
 - 📫 How to reach me ![Twitter](https://img.shields.io/badge/%3Ciht_malik%3E-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&&link=https://twitter.com/iht_malik/) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/mohammadahtasham.hassan/)
-
-- ⚡ Fun fact: I am Good Look Gamer ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-
+- ⚡ Fun fact: I Love Gaming ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aht007&custom_title=My GitHub Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
