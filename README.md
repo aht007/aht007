@@ -1,4 +1,4 @@
-### - 👋 Hi, I’m @aht007
+### 👋 Hi, I’m @aht007
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB&link=https://github.com/aht007/)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white&link=https://github.com/aht007/)
@@ -19,13 +19,13 @@
 - 💬 Ask me about Python, Django, Docker, React, Node and other Programming related stuff
 
 - 📫 How to reach me ![Twitter](https://img.shields.io/badge/%3Ciht_malik%3E-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&&link=https://twitter.com/iht_malik/) ![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&link=https://facebook.com/mohammadahtasham.hassan/)
-- 
+
 - ⚡ Fun fact: I am Good Look Gamer ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=aht007&custom_title=My GitHub Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aht007&langs_count=5" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aht007&langs_count=5" />
 
 
 
