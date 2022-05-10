@@ -12,7 +12,15 @@
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/aht007/)](https://github.com/aht007/) 
 [![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&link=https://github.com/aht007/)](https://github.com/aht007/) 
 
+<div align="center">
+  
+<sup>You are visitor number:</sup>
 
+
+![Hit counter](https://smallcounter.com/count.php?c_style=1&id=1652175883)
+      <br/>
+  <sup> Counting started from 21:47 Thursday, 13 January 2022 </sup>
+</div>
 - 👀 I’m interested in Machine Learning, Frontend Development and DevOps.
 - 🌱 I’m currently learning DevOps.
 - 🔭 I’m currently working for Arbisoft & edX.
