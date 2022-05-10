@@ -21,6 +21,7 @@
       <br/>
   <sup> Counting started from 21:47 Thursday, 13 January 2022 </sup>
 </div>
+
 - 👀 I’m interested in Machine Learning, Frontend Development and DevOps.
 - 🌱 I’m currently learning DevOps.
 - 🔭 I’m currently working for Arbisoft & edX.
